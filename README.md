@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Typescript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org)
-- [Next.js](https://facebook.github.io/react-native/)
+- [Next.js](https://nextjs.org/)
 
 ## 💻 Projeto
 
