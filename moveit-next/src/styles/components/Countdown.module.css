@@ -38,7 +38,7 @@
     width: 100%;
     height: 5rem;
 
-    margin-top: 2rem;
+    margin-top: 1.2rem;
 
     display: flex;
     align-items: center;
@@ -52,9 +52,25 @@
 
     font-size: 1.25rem;
     font-weight: 600;
+    cursor: pointer;
 
     transition: background-color 0.2s;
 }
-.countdownButton:hover {
+.countdownButton:not(:disabled):hover {
     background: var(--blue-dark);
+}
+.countdownButtonActive{
+    background: var(--white);
+    color: var(--title);
+}
+
+.countdownButtonActive:not(:disabled):hover{
+    background: var(--red);
+    color: var(--white);
+}
+
+.countdownButton:disabled {
+    background: var(--white);
+    color: var(--text);
+    cursor: not-allowed;
 }
