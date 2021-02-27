@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="MoveIt" src="moveit.png" width="100%">
+  <img alt="MoveIt" src="img/moveit.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
