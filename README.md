@@ -14,6 +14,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Move It é um projeto para ajudar as pessoas a fazerem mais exercícios.
 
+[Link de Acesso](https://moveit-wheat-zeta.vercel.app/).
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate?node-id=160%3A2761). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
